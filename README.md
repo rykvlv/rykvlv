@@ -5,12 +5,16 @@ ___
 ___
 
 ### Programming languages
+___
 * C++, C#, Python
+___
 
 ### Skills
+___
 * Game developing
 * Computer graphics programming
 * Network programming
+___
 
 <!--
 **rykvlv/rykvlv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
