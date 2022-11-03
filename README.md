@@ -1,4 +1,16 @@
-### Hi there 👋
+### About me
+___
+* C++ Programmer in GameDev industry
+* Work at AAA project
+___
+
+### Programming languages
+* C++, C#, Python
+
+### Skills
+* Game developing
+* Computer graphics programming
+* Network programming
 
 <!--
 **rykvlv/rykvlv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
