@@ -1,12 +1,11 @@
 ### About me
 ___
 * C++ Programmer in GameDev industry
-* Work at AAA project
 ___
 
 ### Programming languages
 ___
-* C++, C#, Python
+* C++, Go, C#, Python
 ___
 
 ### Skills
